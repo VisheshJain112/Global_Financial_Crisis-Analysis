@@ -1,9 +1,6 @@
 # Statistical Analysis of Global Financial Crisis 2007/09
 by **Vishesh Jain**, Jun 2020 
 
-[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/qin-yu/ml-julia-boston-housing/blob/master/LICENSE)
-[![R](https://img.shields.io/badge/R-v3.5.1-blue.svg)](https://julialang.org/blog/2018/08/one-point-zero)
-
 To analyse the stock price data, statistically, during the Global Financial Crisis, the auther
 used R on selected once including 8 stocks for the financial industry (and the average), 4
 stocks for the technology industry, and 4 stocks for the energy industry, from 1st July 2006
